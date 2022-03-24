@@ -15,7 +15,7 @@ The file "VSBO_class.py" implements the VS-BO algorithm, the file "Experiments_s
 
 VS-BO has seven output files:
 
-X_*.npy: The query obtained for each iteration
+* `X_*.npy`: The query obtained for each iteration
 Y_*.npy: The output value obtained for each iteration
 Time_*.npy: The accumulated wall clock time for each iteration
 Time_process_*.npy: The accumulated CPU time for each iteration
